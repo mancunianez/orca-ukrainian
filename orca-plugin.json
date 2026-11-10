@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 2,
+  "id": "ukrainian",
+  "name": "Ukrainian language pack",
+  "version": "0.1.0",
+  "description": "Translates the Orca interface into Ukrainian.",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "languagePacks": [
+      {
+        "locale": "uk",
+        "path": "locales/uk.json",
+        "displayName": "Українська"
+      }
+    ]
+  }
+}

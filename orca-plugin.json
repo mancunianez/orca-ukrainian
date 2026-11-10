@@ -2,7 +2,8 @@
   "manifestVersion": 2,
   "id": "ukrainian",
   "name": "Ukrainian language pack",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "license": "MIT",
   "description": "Translates the Orca interface into Ukrainian.",
   "engines": {
     "orca": ">=1.4.246"
